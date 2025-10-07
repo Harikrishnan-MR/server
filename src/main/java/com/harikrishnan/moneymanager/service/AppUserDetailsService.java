@@ -1,6 +1,7 @@
 package com.harikrishnan.moneymanager.service;
 
 
+import com.harikrishnan.moneymanager.entity.ProfileEntity;
 import com.harikrishnan.moneymanager.repository.ProfileRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.User;
