@@ -1,5 +1,5 @@
 # -------- Step 1: Build JAR using Maven --------
-FROM maven:3.8.4-openjdk-17 AS build
+FROM maven:3.9.6-eclipse-temurin-21 AS build
 
 # Set working directory
 WORKDIR /app
